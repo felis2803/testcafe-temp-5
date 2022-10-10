@@ -1,0 +1,22 @@
+{
+  "name": "testcafe-temp-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/testcafe/bin/testcafe.js chrome ts-examples.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felis2803/testcafe-temp-5.git"
+  },
+  "author": "Ilya Afanasenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/felis2803/testcafe-temp-5/issues"
+  },
+  "homepage": "https://github.com/felis2803/testcafe-temp-5#readme",
+  "dependencies": {
+    "testcafe": "^2.0.1"
+  }
+}
